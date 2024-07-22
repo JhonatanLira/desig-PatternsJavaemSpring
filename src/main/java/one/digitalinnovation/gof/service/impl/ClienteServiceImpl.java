@@ -43,7 +43,7 @@ public class ClienteServiceImpl implements ClienteService {
     @Override
     public void inserir(Cliente cliente) {
 
-    }s
+    }
 
     @Override
     public void atualizar(Long id, Cliente cliente) {
